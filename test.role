@@ -1,0 +1,6 @@
+#somec
+role2: "priv2" # tcomm
+role1: priv1
+role3: "priv 3" "priv 4"
+# comment 2
+
